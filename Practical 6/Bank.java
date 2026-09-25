@@ -1,3 +1,4 @@
+//Q6 and Q7
 class Account{
 	double bal=60000;
 
